@@ -1,0 +1,442 @@
+[
+  {
+    "question": "You're 3rd place right now in a race. What place are you in when you pass the person in 2nd place?",
+    "answers": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is heavier? A kilogram of feathers or a kilogram of gold?",
+    "answers": [
+      "Feathers",
+      "Gold",
+      "Neither",
+      "What are kilograms"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "How many toes does a two toed sloth have?",
+    "answers": [
+      "2",
+      "5",
+      "6",
+      "4"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Why is a marathon race distance 26 miles and 385 yards?",
+    "answers": [
+      "It's the distance from Marathon, Greece, to Athens",
+      "For the convenience of the British royal family",
+      "Completely by accident",
+      "Who knows"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What was Billy the Kid's real first name?",
+    "answers": [
+      "Kid",
+      "Henry",
+      "Bill",
+      "William"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What was The Olympic Village for the 1980 Winter Games converted into after the games?",
+    "answers": [
+      "A skating rink",
+      "A prison",
+      "A museum",
+      "A mall"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "How many muscles do you have in total in all your fingers combined?",
+    "answers": [
+      "22",
+      "10",
+      "None",
+      "20"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "How many man made artifacts on Earth can be seen from space?",
+    "answers": [
+      "None",
+      "Thousands",
+      "Around 7",
+      "Only the Great Wall"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "According to Apollo astronauts, the Moon smells like:",
+    "answers": [
+      "Coffee Grounds",
+      "Burnt Gunpowder",
+      "Sulfur",
+      "Gasoline"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "The plant and skin of this fruit can cause contact dermatitis and other symptoms of poison ivy.",
+    "answers": [
+      "Papaya",
+      "Durian",
+      "Kiwi",
+      "Coconut"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which of these is a common datatype used in programming languages?",
+    "answers": [
+      "String",
+      "Hello, World",
+      "Length",
+      "Time"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of these is a common datatype used in programming languages?",
+    "answers": [
+      "Date",
+      "Integer",
+      "Width",
+      "Time"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "You may have heard a weird meat 'tastes like chicken.' Which edible insect actually does taste like chicken?",
+    "answers": [
+      "Cicada",
+      "Brown Cockroach",
+      "Grasshopper",
+      "Dung Beetle"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is a second generation programming language?",
+    "answers": [
+      "Machine Code",
+      "Visual Basic",
+      "Assembly",
+      "Java"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the ouput using an OR gate with the inputs 1 and 0?",
+    "answers": [
+      "1",
+      "0",
+      "2",
+      "NULL"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following gates only returns true when only 1 of the inputs are true?",
+    "answers": [
+      "XOR",
+      "OR",
+      "NAND",
+      "XNOR"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Simplify the following boolean expression: (A' + B')' + (B . A')",
+    "answers": [
+      "B",
+      "A' + B",
+      "A.B",
+      "A"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Simplify the following boolean expression: A + B ",
+    "answers": [
+      "A + B",
+      "A'",
+      "A.B",
+      "A"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Simplify the following boolean expression: A * A",
+    "answers": [
+      "1",
+      "A' + B",
+      "0",
+      "A"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the top-level domain of the following URL? https://www.google.com",
+    "answers": [
+      "www",
+      "google",
+      "com",
+      "https"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the top-level domain of the following URL? https://www.memes.co.uk",
+    "answers": [
+      "www",
+      "uk",
+      "co",
+      "https"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the top-level domain of the following URL? https://www.helloworld.net",
+    "answers": [
+      "www",
+      "hello",
+      "net",
+      "https"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the HTML tag for an ordered list?",
+    "answers": [
+      "<li>",
+      "<ul>",
+      "<ol>",
+      "<p>"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the HTML tag for a paragraph?",
+    "answers": [
+      "<li>",
+      "<ul>",
+      "<ol>",
+      "<p>"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the HTML tag for an unordered list?",
+    "answers": [
+      "<li>",
+      "<ul>",
+      "<ol>",
+      "<p>"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the HTML tag for a list item?",
+    "answers": [
+      "<li>",
+      "<ul>",
+      "<ol>",
+      "<p>"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What does OCR stand for?",
+    "answers": [
+      "Optical Character Recognition",
+      "Only Cool Ranch",
+      "Or Cat Hue",
+      "Open Coding Research"
+    ],
+    "correct_answer": 0
+  },
+{
+    "question": "What does ROM stand for?",
+    "answers": [
+      "Real Optic Mean",
+      "Read Only Memeory",
+      "Rare Optional Memes",
+      "Rite Only Memory"
+    ],
+    "correct_answer": 1
+  },
+{
+    "question": "What does RAM stand for?",
+    "answers": [
+      "Random All Moments",
+      "Read Access Memory",
+      "Random Access Memory",
+      "Read All Mentions"
+    ],
+    "correct_answer": 2
+  },
+{
+    "question": "What does CPU stand for?",
+    "answers": [
+      "Create Pro United",
+      "Collateral Process Unit",
+      "Central Progress Unit",
+      "Central Processing Unit"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "Lobster blood is blue once it is exposed to air. What color is it inside a living lobster?",
+    "answers": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Clear"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "Human blood is red when it is exposed to air. What color is the deoxygenated blood inside your veins?",
+    "answers": [
+      "Clear",
+      "Red",
+      "Blue",
+      "Brown"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of the following orders of time complexity represents polynomial time?",
+    "answers": [
+      "O(n)",
+      "O(n!)",
+      "O(n^2)",
+      "O(2^n)"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which of the following problems is intractable?",
+    "answers": [
+      "Travelling salesman",
+      "Halting",
+      "Sorting names alphabetically",
+      "None"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is an unsigned integer?",
+    "answers": [
+      "76.4",
+      "-2",
+      "-0.03",
+      "5"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "What are three types of networks?",
+    "answers": [
+      "LAN, TAN, WAN",
+      "LAN, SAN, WAN",
+      "LAN, PAN, WAN",
+      "LAN, MAN, WAN"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "JavaScript is...",
+    "answers": [
+      "a server-side scripting language.",
+      "a client-side scripting language.",
+      "a virus.",
+      "another name for Java."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is phishing?",
+    "answers": [
+      "Computer virus",
+      "Dodgy website",
+      "Spam distribution",
+      "Identity Theft"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the default port number for web servers/HTTP traffic?",
+    "answers": [
+      "80",
+      "20",
+      "27",
+      "554"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "A DNS translates a domain name into what?",
+    "answers": [
+      "Binary",
+      "Hexadecimal",
+      "URL",
+      "IP"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does URL stand for?",
+    "answers": [
+      "Uniform Real Locator",
+      "Uniform Resource Locator",
+      "Unified Resource Location",
+      "Unified Resources Locator"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which type of memory is volatile?",
+    "answers": [
+      "Cache",
+      "ROM",
+      "Hard Drive",
+      "RAM"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "Which character is used in an OR operator?",
+    "answers": [
+      "Pipe '|'",
+      "Ampersand '&'",
+      "Bracket '('",
+      "Colon ':'"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "This extension refers to what kind of file? (.jpeg)",
+    "answers": [
+      "Word processing",
+      "Image",
+      "Programming Script",
+      "File storage"
+    ],
+    "correct_answer": 1
+  }
+]
